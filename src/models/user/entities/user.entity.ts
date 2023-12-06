@@ -50,6 +50,12 @@ export class User extends BaseRepository {
     @Column({ nullable: false })
     email: string;
 
+    @Column({ nullable: true })
+    symptom: string;
+
+    @Column({ nullable: true })
+    insurance: string
+
     @Column({ name: 'refresh_token', nullable: true })
     refreshToken: string;
 
@@ -81,5 +87,11 @@ export class User extends BaseRepository {
 
     @OneToMany(() => Feedback, feedbackPatient => feedbackPatient.patient)
     feedbackPatient: Feedback[]
+
+    @OneToMany(() => Appointment, user => user.doctor)
+    appointmentDoctor: Appointment[]
+
+    @OneToMany(() => Appointment, user => user.patient)
+    appointmentPatient: Appointment[]
 
 }

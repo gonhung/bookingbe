@@ -1473,6 +1473,7 @@
 "@types/node@*", "@types/node@>=10.0.0", "@types/node@>=12.12.47", "@types/node@>=13.7.0":
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   version "20.10.3"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.3.tgz#4900adcc7fc189d5af5bb41da8f543cea6962030"
   integrity sha512-XJavIpZqiXID5Yxnxv3RUDKTN5b81ddNC3ecsA0SoFXz/QU8OGBwZGMomiq0zw+uuqbL/krztv/DINAQ/EV4gg==
@@ -1482,6 +1483,8 @@
   integrity sha512-WHZXKFCEyIUJzAwh3NyyTHYSR35SevJ6mZ1nWwJafKtiQbqRTIKSRcw3Ma3acqgsent3RRDqeVwpHntMk+9irg==
 >>>>>>> parent of bd7a700 (pushh)
 =======
+=======
+>>>>>>> 5e7cd670ac62dfcfb4c94c0ef25a647abd7e93c7
   version "20.9.2"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-20.9.2.tgz#002815c8e87fe0c9369121c78b52e800fadc0ac6"
   integrity sha512-WHZXKFCEyIUJzAwh3NyyTHYSR35SevJ6mZ1nWwJafKtiQbqRTIKSRcw3Ma3acqgsent3RRDqeVwpHntMk+9irg==
@@ -1490,7 +1493,20 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.2.tgz#32a5e8228357f57714ad28d52229ab04880c2814"
   integrity sha512-37MXfxkb0vuIlRKHNxwCkb60PNBpR94u4efQuN4JgIAm66zfCDXGSAFCef9XUWFovX2R1ok6Z7MHhtdVXXkkIw==
 >>>>>>> parent of ba3f822 (fix bug)
+<<<<<<< HEAD
 >>>>>>> hongnhung
+=======
+=======
+  version "20.10.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.3.tgz#4900adcc7fc189d5af5bb41da8f543cea6962030"
+  integrity sha512-XJavIpZqiXID5Yxnxv3RUDKTN5b81ddNC3ecsA0SoFXz/QU8OGBwZGMomiq0zw+uuqbL/krztv/DINAQ/EV4gg==
+=======
+  version "20.9.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.9.2.tgz#002815c8e87fe0c9369121c78b52e800fadc0ac6"
+  integrity sha512-WHZXKFCEyIUJzAwh3NyyTHYSR35SevJ6mZ1nWwJafKtiQbqRTIKSRcw3Ma3acqgsent3RRDqeVwpHntMk+9irg==
+>>>>>>> parent of bd7a700 (pushh)
+>>>>>>> master
+>>>>>>> 5e7cd670ac62dfcfb4c94c0ef25a647abd7e93c7
   dependencies:
     undici-types "~5.26.4"
 
@@ -2420,6 +2436,7 @@ camelcase@^6.2.0:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 caniuse-lite@^1.0.30001565:
   version "1.0.30001566"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001566.tgz#61a8e17caf3752e3e426d4239c549ebbb37fef0d"
@@ -2431,6 +2448,8 @@ caniuse-lite@^1.0.30001541:
   integrity sha512-na2WUmOxnwIZtwnFI2CZ/3er0wdNzU7hN+cPYz/z2ajHThnkWjNBOpEPP4n+4r2WPM847JaMotaJE3bnfzjyKw==
 >>>>>>> parent of bd7a700 (pushh)
 =======
+=======
+>>>>>>> 5e7cd670ac62dfcfb4c94c0ef25a647abd7e93c7
 caniuse-lite@^1.0.30001541:
   version "1.0.30001563"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001563.tgz#aa68a64188903e98f36eb9c56e48fba0c1fe2a32"
@@ -2441,7 +2460,22 @@ caniuse-lite@^1.0.30001565:
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001565.tgz#a528b253c8a2d95d2b415e11d8b9942acc100c4f"
   integrity sha512-xrE//a3O7TP0vaJ8ikzkD2c2NgcVUvsEe2IvFTntV4Yd1Z9FVzh+gW+enX96L0psrbaFMcVcH2l90xNuGDWc8w==
 >>>>>>> parent of ba3f822 (fix bug)
+<<<<<<< HEAD
 >>>>>>> hongnhung
+=======
+=======
+caniuse-lite@^1.0.30001565:
+  version "1.0.30001566"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001566.tgz#61a8e17caf3752e3e426d4239c549ebbb37fef0d"
+  integrity sha512-ggIhCsTxmITBAMmK8yZjEhCO5/47jKXPu6Dha/wuCS4JePVL+3uiDEBuhu2aIoT+bqTOR8L76Ip1ARL9xYsEJA==
+=======
+caniuse-lite@^1.0.30001541:
+  version "1.0.30001563"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001563.tgz#aa68a64188903e98f36eb9c56e48fba0c1fe2a32"
+  integrity sha512-na2WUmOxnwIZtwnFI2CZ/3er0wdNzU7hN+cPYz/z2ajHThnkWjNBOpEPP4n+4r2WPM847JaMotaJE3bnfzjyKw==
+>>>>>>> parent of bd7a700 (pushh)
+>>>>>>> master
+>>>>>>> 5e7cd670ac62dfcfb4c94c0ef25a647abd7e93c7
 
 catharsis@^0.9.0:
   version "0.9.0"
@@ -3233,6 +3267,7 @@ ejs@^3.1.9:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 electron-to-chromium@^1.4.601:
   version "1.4.603"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.603.tgz#446907c21d333b55d0beaba1cb5b48430775a8a7"
@@ -3244,6 +3279,8 @@ electron-to-chromium@^1.4.535:
   integrity sha512-soytjxwbgcCu7nh5Pf4S2/4wa6UIu+A3p03U2yVr53qGxi1/VTR3ENI+p50v+UxqqZAfl48j3z55ud7VHIOr9w==
 >>>>>>> parent of bd7a700 (pushh)
 =======
+=======
+>>>>>>> 5e7cd670ac62dfcfb4c94c0ef25a647abd7e93c7
 electron-to-chromium@^1.4.535:
   version "1.4.588"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.588.tgz#d553f3c008e73488fb181fdf2601fdb0b1ffbb78"
@@ -3254,7 +3291,22 @@ electron-to-chromium@^1.4.601:
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.601.tgz#cac69868548aee89961ffe63ff5a7716f0685b75"
   integrity sha512-SpwUMDWe9tQu8JX5QCO1+p/hChAi9AE9UpoC3rcHVc+gdCGlbT3SGb5I1klgb952HRIyvt9wZhSz9bNBYz9swA==
 >>>>>>> parent of ba3f822 (fix bug)
+<<<<<<< HEAD
 >>>>>>> hongnhung
+=======
+=======
+electron-to-chromium@^1.4.601:
+  version "1.4.603"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.603.tgz#446907c21d333b55d0beaba1cb5b48430775a8a7"
+  integrity sha512-Dvo5OGjnl7AZTU632dFJtWj0uJK835eeOVQIuRcmBmsFsTNn3cL05FqOyHAfGQDIoHfLhyJ1Tya3PJ0ceMz54g==
+=======
+electron-to-chromium@^1.4.535:
+  version "1.4.588"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.588.tgz#d553f3c008e73488fb181fdf2601fdb0b1ffbb78"
+  integrity sha512-soytjxwbgcCu7nh5Pf4S2/4wa6UIu+A3p03U2yVr53qGxi1/VTR3ENI+p50v+UxqqZAfl48j3z55ud7VHIOr9w==
+>>>>>>> parent of bd7a700 (pushh)
+>>>>>>> master
+>>>>>>> 5e7cd670ac62dfcfb4c94c0ef25a647abd7e93c7
 
 emittery@^0.13.1:
   version "0.13.1"
